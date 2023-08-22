@@ -1,14 +1,15 @@
 # waveDG_XT_RAS
 NAPDE project for wave equation, academic year 2021/2022
 
-#-------------------------------------------------------------------------------------
+
 XT_DG for the 1D wave equation, cartesian mesh only
 Domain decomposition methods: RAS, GMRES with RAS preconditioner, RAS PIPELINE
-#-------------------------------------------------------------------------------------
+
 
 from
 A space-time discontinuous Galerkin method for the wave equation
 Authors: Francesco Songia, Enrico Zardi
+mailto: francesco.songia@mail.polimi.it, enrico.zardi@mail.polimi.it 
 Advisors: Ilario Mazzieri, Gabriele Ciaramella
 Project in Numerical Analysis for Partial Differential Equations
 Academic year 2021-22
