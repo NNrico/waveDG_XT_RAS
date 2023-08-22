@@ -1,6 +1,3 @@
-# waveDG_XT_RAS
-NAPDE project for wave equation, academic year 2021/2022
-
 
 XT_DG for the 1D wave equation, cartesian mesh only
 Domain decomposition methods: RAS, GMRES with RAS preconditioner, RAS PIPELINE
